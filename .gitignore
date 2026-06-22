@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+data/
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+

@@ -1,0 +1,12 @@
+transformers>=4.57.6
+accelerate
+opencv-python
+Pillow==11.3.0
+matplotlib
+pandas
+requests
+tqdm
+huggingface_hub
+safetensors
+pycocotools
+ultralytics
